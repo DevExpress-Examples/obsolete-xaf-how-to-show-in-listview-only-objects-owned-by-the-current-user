@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [AssignedToFilterListViewController.cs](./CS/WinSolution.Module/AssignedToFilterListViewController.cs) (VB: [AssignedToFilterListViewController.vb](./VB/WinSolution.Module/AssignedToFilterListViewController.vb))
+* [Employee.cs](./CS/WinSolution.Module/Employee.cs) (VB: [Employee.vb](./VB/WinSolution.Module/Employee.vb))
+* [Store.cs](./CS/WinSolution.Module/Store.cs) (VB: [Store.vb](./VB/WinSolution.Module/Store.vb))
+* [Updater.cs](./CS/WinSolution.Module/Updater.cs) (VB: [Updater.vb](./VB/WinSolution.Module/Updater.vb))
+<!-- default file list end -->
 # OBSOLETE - How to show in ListView only objects owned by the current user
 
 
